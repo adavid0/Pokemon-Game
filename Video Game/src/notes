@@ -1,6 +1,17 @@
-Things to consider : (Edited as proceeded)
-type advantages
-damage
+The app so far only contains the outline of the Pokemon Game.
+The app, as it is now, can : 
+1) Let the user decide up to ONE pokemon(s).
+2) Has ONE enemy pokemon(s) which is predetermined to be of level 100 and type FIRE.
+3) Decides victory / defeat based on damage multiplier (proper setup) WITHOUT hitpoint calculation.
+4) Has three pokemon types FIRE, GRASS and WATER.
 
 
-Pokemon types (advanced)
+Yet to be done:
+1) Include all pokemon types.
+2) Develop a hitpoint induced battle system.
+3) Make a list of random locations and random pokemon and randomize the enemy pokemon encounter.
+
+
+May or may not be done:
+1) Split battle system to turn based game mode.
+2) Create a proper interactive location based pokemon world system.
